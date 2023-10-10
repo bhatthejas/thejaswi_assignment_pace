@@ -1,0 +1,40 @@
+html {
+    scroll-behavior: smooth;
+  }
+header {
+    background-color:red;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    height: 50px;
+}
+nav {
+    background-color:gold;
+    color: white;
+    text-align:center;
+    padding: 10px;
+    height: 70px;
+}
+a{
+    text-decoration: none;
+}
+footer {
+    background-color:blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    position: relative;
+}
+button{
+    display: block;
+}
+img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
